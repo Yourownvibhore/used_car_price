@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935535621732",
+    "project_id": "car-price-b5755",
+    "storage_bucket": "car-price-b5755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935535621732:android:c5d6d04019bd0ba1cdd171",
+        "android_client_info": {
+          "package_name": "com.example.used_car_price"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qwhZw995Ri9IT5QIwyB9bS5DUUaLV7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
